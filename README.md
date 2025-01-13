@@ -1,0 +1,1 @@
+This project is a modern web-based application developed using C# with .NET 8 on the backend and Angular on the frontend. The application is designed to be highly performant, scalable, and user-friendly, leveraging the latest technologies to provide an excellent user experience.
